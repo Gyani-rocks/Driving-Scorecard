@@ -1,0 +1,195 @@
+===== DRIVING BEHAVIOR REPORT =====
+
+=== SCORE BY MODULE ===
+lane_events.json: 0
+tailgating_events.json: 0
+speed_events.json: 0
+overtaking.json: 100
+hardbrake.json: 80
+
+=== ALL EVENTS ===
+[t=5] overspeed  meta={'frame': 'frames\\frame_00005.jpg', 'speed_kmph': 438.6847229003906, 'evidence': 'evidence_speed\\overspeed_00005.jpg'}
+[t=10] overspeed  meta={'frame': 'frames\\frame_00010.jpg', 'speed_kmph': 62.218257904052734, 'evidence': 'evidence_speed\\overspeed_00010.jpg'}
+[t=11] overspeed  meta={'frame': 'frames\\frame_00011.jpg', 'speed_kmph': 72.94088745117188, 'evidence': 'evidence_speed\\overspeed_00011.jpg'}
+[t=12] overspeed  meta={'frame': 'frames\\frame_00012.jpg', 'speed_kmph': 88.91421508789062, 'evidence': 'evidence_speed\\overspeed_00012.jpg'}
+[t=12] overtaking_you  meta={'frame': 'frames\\frame_00012.jpg', 'track': 0, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_0_12.jpg'}
+[t=13] overspeed  meta={'frame': 'frames\\frame_00013.jpg', 'speed_kmph': 126.02022552490234, 'evidence': 'evidence_speed\\overspeed_00013.jpg'}
+[t=14] overspeed  meta={'frame': 'frames\\frame_00014.jpg', 'speed_kmph': 125.48914337158203, 'evidence': 'evidence_speed\\overspeed_00014.jpg'}
+[t=15] overspeed  meta={'frame': 'frames\\frame_00015.jpg', 'speed_kmph': 165.1555938720703, 'evidence': 'evidence_speed\\overspeed_00015.jpg'}
+[t=15] overtaking_you  meta={'frame': 'frames\\frame_00015.jpg', 'track': 0, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_0_15.jpg'}
+[t=16] lane_departure  meta={'frame': 'frames\\frame_00016.jpg', 'offset_px': 564, 'offset_m': 26.75384615384616, 'evidence': 'evidence\\evidence_frame_00016.jpg'}
+[t=16] overspeed  meta={'frame': 'frames\\frame_00016.jpg', 'speed_kmph': 209.7468719482422, 'evidence': 'evidence_speed\\overspeed_00016.jpg'}
+[t=17] tailgating  meta={'frame': 'frames\\frame_00017.jpg', 'rel_height': 0.41759259259259257, 'evidence': 'evidence_tailgating\\tailgating_00017.jpg'}
+[t=17] overspeed  meta={'frame': 'frames\\frame_00017.jpg', 'speed_kmph': 304.4291687011719, 'evidence': 'evidence_speed\\overspeed_00017.jpg'}
+[t=18] overspeed  meta={'frame': 'frames\\frame_00018.jpg', 'speed_kmph': 419.5625915527344, 'evidence': 'evidence_speed\\overspeed_00018.jpg'}
+[t=18] overtaking_you  meta={'frame': 'frames\\frame_00018.jpg', 'track': 0, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_0_18.jpg'}
+[t=19] lane_departure  meta={'frame': 'frames\\frame_00019.jpg', 'offset_px': 459, 'offset_m': 7.07625, 'evidence': 'evidence\\evidence_frame_00019.jpg'}
+[t=19] overspeed  meta={'frame': 'frames\\frame_00019.jpg', 'speed_kmph': 457.8292236328125, 'evidence': 'evidence_speed\\overspeed_00019.jpg'}
+[t=19] hard_brake  meta={'frame': 'frames\\frame_00019.jpg', 'growth': 0.2755474452554745, 'evidence': 'evidence_hardbrake\\hardbrake_00019.jpg'}
+[t=20] tailgating  meta={'frame': 'frames\\frame_00020.jpg', 'rel_height': 0.8407407407407408, 'evidence': 'evidence_tailgating\\tailgating_00020.jpg'}
+[t=20] overspeed  meta={'frame': 'frames\\frame_00020.jpg', 'speed_kmph': 1191.7685546875, 'evidence': 'evidence_speed\\overspeed_00020.jpg'}
+[t=22] lane_departure  meta={'frame': 'frames\\frame_00022.jpg', 'offset_px': 458, 'offset_m': 6.184671532846716, 'evidence': 'evidence\\evidence_frame_00022.jpg'}
+[t=22] overspeed  meta={'frame': 'frames\\frame_00022.jpg', 'speed_kmph': 568.83251953125, 'evidence': 'evidence_speed\\overspeed_00022.jpg'}
+[t=22] overtaking_you  meta={'frame': 'frames\\frame_00022.jpg', 'track': 0, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_0_22.jpg'}
+[t=23] tailgating  meta={'frame': 'frames\\frame_00023.jpg', 'rel_height': 0.8694444444444445, 'evidence': 'evidence_tailgating\\tailgating_00023.jpg'}
+[t=23] overspeed  meta={'frame': 'frames\\frame_00023.jpg', 'speed_kmph': 1045.09228515625, 'evidence': 'evidence_speed\\overspeed_00023.jpg'}
+[t=25] lane_departure  meta={'frame': 'frames\\frame_00025.jpg', 'offset_px': 452, 'offset_m': 6.407662835249043, 'evidence': 'evidence\\evidence_frame_00025.jpg'}
+[t=25] overtaking_you  meta={'frame': 'frames\\frame_00025.jpg', 'track': 0, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_0_25.jpg'}
+[t=26] tailgating  meta={'frame': 'frames\\frame_00026.jpg', 'rel_height': 0.899074074074074, 'evidence': 'evidence_tailgating\\tailgating_00026.jpg'}
+[t=28] lane_departure  meta={'frame': 'frames\\frame_00028.jpg', 'offset_px': 412, 'offset_m': 8.375824175824176, 'evidence': 'evidence\\evidence_frame_00028.jpg'}
+[t=28] you_overtake  meta={'frame': 'frames\\frame_00028.jpg', 'track': 0, 'direction': 'down', 'evidence': 'evidence_overtaking\\you_overtake_0_28.jpg'}
+[t=29] tailgating  meta={'frame': 'frames\\frame_00029.jpg', 'rel_height': 0.9194444444444444, 'evidence': 'evidence_tailgating\\tailgating_00029.jpg'}
+[t=29] overspeed  meta={'frame': 'frames\\frame_00029.jpg', 'speed_kmph': 1198.4510498046875, 'evidence': 'evidence_speed\\overspeed_00029.jpg'}
+[t=31] lane_departure  meta={'frame': 'frames\\frame_00029_lane_center.jpg', 'offset_px': 378, 'offset_m': 12.376991150442478, 'evidence': 'evidence\\evidence_frame_00031.jpg'}
+[t=61] you_overtake  meta={'frame': 'frames\\frame_00059.jpg', 'track': 3, 'direction': 'down', 'evidence': 'evidence_overtaking\\you_overtake_3_61.jpg'}
+[t=65] overspeed  meta={'frame': 'frames\\frame_00063.jpg', 'speed_kmph': 628.6776733398438, 'evidence': 'evidence_speed\\overspeed_00065.jpg'}
+[t=66] overspeed  meta={'frame': 'frames\\frame_00064.jpg', 'speed_kmph': 304.5987854003906, 'evidence': 'evidence_speed\\overspeed_00066.jpg'}
+[t=67] lane_departure  meta={'frame': 'frames\\frame_00065.jpg', 'offset_px': 805, 'offset_m': 27.83644859813084, 'evidence': 'evidence\\evidence_frame_00067.jpg'}
+[t=67] overspeed  meta={'frame': 'frames\\frame_00065.jpg', 'speed_kmph': 251.23226928710938, 'evidence': 'evidence_speed\\overspeed_00067.jpg'}
+[t=68] overspeed  meta={'frame': 'frames\\frame_00066.jpg', 'speed_kmph': 224.56385803222656, 'evidence': 'evidence_speed\\overspeed_00068.jpg'}
+[t=68] overtaking_you  meta={'frame': 'frames\\frame_00066.jpg', 'track': 5, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_5_68.jpg'}
+[t=69] overspeed  meta={'frame': 'frames\\frame_00067.jpg', 'speed_kmph': 203.64065551757812, 'evidence': 'evidence_speed\\overspeed_00069.jpg'}
+[t=70] lane_departure  meta={'frame': 'frames\\frame_00068.jpg', 'offset_px': 761, 'offset_m': 37.54266666666667, 'evidence': 'evidence\\evidence_frame_00070.jpg'}
+[t=70] overspeed  meta={'frame': 'frames\\frame_00068.jpg', 'speed_kmph': 184.07530212402344, 'evidence': 'evidence_speed\\overspeed_00070.jpg'}
+[t=70] you_overtake  meta={'frame': 'frames\\frame_00068.jpg', 'track': 4, 'direction': 'down', 'evidence': 'evidence_overtaking\\you_overtake_4_70.jpg'}
+[t=71] overspeed  meta={'frame': 'frames\\frame_00069.jpg', 'speed_kmph': 171.54702758789062, 'evidence': 'evidence_speed\\overspeed_00071.jpg'}
+[t=72] overspeed  meta={'frame': 'frames\\frame_00070.jpg', 'speed_kmph': 156.1903839111328, 'evidence': 'evidence_speed\\overspeed_00072.jpg'}
+[t=73] lane_departure  meta={'frame': 'frames\\frame_00071.jpg', 'offset_px': 731, 'offset_m': 49.17636363636364, 'evidence': 'evidence\\evidence_frame_00073.jpg'}
+[t=73] overspeed  meta={'frame': 'frames\\frame_00071.jpg', 'speed_kmph': 140.87429809570312, 'evidence': 'evidence_speed\\overspeed_00073.jpg'}
+[t=73] you_overtake  meta={'frame': 'frames\\frame_00071.jpg', 'track': 1, 'direction': 'down', 'evidence': 'evidence_overtaking\\you_overtake_1_73.jpg'}
+[t=74] overspeed  meta={'frame': 'frames\\frame_00072.jpg', 'speed_kmph': 130.0304718017578, 'evidence': 'evidence_speed\\overspeed_00074.jpg'}
+[t=75] overspeed  meta={'frame': 'frames\\frame_00073.jpg', 'speed_kmph': 120.3440170288086, 'evidence': 'evidence_speed\\overspeed_00075.jpg'}
+[t=76] lane_departure  meta={'frame': 'frames\\frame_00074.jpg', 'offset_px': 705, 'offset_m': 60.662790697674424, 'evidence': 'evidence\\evidence_frame_00076.jpg'}
+[t=76] overspeed  meta={'frame': 'frames\\frame_00074.jpg', 'speed_kmph': 108.6014404296875, 'evidence': 'evidence_speed\\overspeed_00076.jpg'}
+[t=77] overspeed  meta={'frame': 'frames\\frame_00075.jpg', 'speed_kmph': 97.65126037597656, 'evidence': 'evidence_speed\\overspeed_00077.jpg'}
+[t=79] lane_departure  meta={'frame': 'frames\\frame_00077.jpg', 'offset_px': 685, 'offset_m': 72.41428571428571, 'evidence': 'evidence\\evidence_frame_00079.jpg'}
+[t=81] overtaking_you  meta={'frame': 'frames\\frame_00079.jpg', 'track': 5, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_5_81.jpg'}
+[t=82] lane_departure  meta={'frame': 'frames\\frame_00080.jpg', 'offset_px': 671, 'offset_m': 80.08709677419355, 'evidence': 'evidence\\evidence_frame_00082.jpg'}
+[t=84] overspeed  meta={'frame': 'frames\\frame_00082.jpg', 'speed_kmph': 67.13700103759766, 'evidence': 'evidence_speed\\overspeed_00084.jpg'}
+[t=84] you_overtake  meta={'frame': 'frames\\frame_00082.jpg', 'track': 4, 'direction': 'down', 'evidence': 'evidence_overtaking\\you_overtake_4_84.jpg'}
+[t=85] lane_departure  meta={'frame': 'frames\\frame_00083.jpg', 'offset_px': 633, 'offset_m': 25.737362637362637, 'evidence': 'evidence\\evidence_frame_00085.jpg'}
+[t=85] overspeed  meta={'frame': 'frames\\frame_00083.jpg', 'speed_kmph': 76.04673767089844, 'evidence': 'evidence_speed\\overspeed_00085.jpg'}
+[t=86] overspeed  meta={'frame': 'frames\\frame_00084.jpg', 'speed_kmph': 83.33650207519531, 'evidence': 'evidence_speed\\overspeed_00086.jpg'}
+[t=87] overspeed  meta={'frame': 'frames\\frame_00085.jpg', 'speed_kmph': 95.16319274902344, 'evidence': 'evidence_speed\\overspeed_00087.jpg'}
+[t=88] lane_departure  meta={'frame': 'frames\\frame_00086.jpg', 'offset_px': 586, 'offset_m': 35.54426229508197, 'evidence': 'evidence\\evidence_frame_00088.jpg'}
+[t=88] overspeed  meta={'frame': 'frames\\frame_00086.jpg', 'speed_kmph': 110.41675567626953, 'evidence': 'evidence_speed\\overspeed_00088.jpg'}
+[t=89] overspeed  meta={'frame': 'frames\\frame_00087.jpg', 'speed_kmph': 129.46205139160156, 'evidence': 'evidence_speed\\overspeed_00089.jpg'}
+[t=90] overspeed  meta={'frame': 'frames\\frame_00088.jpg', 'speed_kmph': 145.37548828125, 'evidence': 'evidence_speed\\overspeed_00090.jpg'}
+[t=91] lane_departure  meta={'frame': 'frames\\frame_00089.jpg', 'offset_px': 723, 'offset_m': 5.984563758389261, 'evidence': 'evidence\\evidence_frame_00091.jpg'}
+[t=91] overspeed  meta={'frame': 'frames\\frame_00089.jpg', 'speed_kmph': 181.15234375, 'evidence': 'evidence_speed\\overspeed_00091.jpg'}
+[t=93] overtaking_you  meta={'frame': 'frames\\frame_00091.jpg', 'track': 1, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_1_93.jpg'}
+[t=94] lane_departure  meta={'frame': 'frames\\frame_00092.jpg', 'offset_px': 478, 'offset_m': 6.550370370370371, 'evidence': 'evidence\\evidence_frame_00094.jpg'}
+[t=94] tailgating  meta={'frame': 'frames\\frame_00092.jpg', 'rel_height': 0.49074074074074076, 'evidence': 'evidence_tailgating\\tailgating_00094.jpg'}
+[t=94] overspeed  meta={'frame': 'frames\\frame_00092.jpg', 'speed_kmph': 98.5899429321289, 'evidence': 'evidence_speed\\overspeed_00094.jpg'}
+[t=94] you_overtake  meta={'frame': 'frames\\frame_00092.jpg', 'track': 0, 'direction': 'down', 'evidence': 'evidence_overtaking\\you_overtake_0_94.jpg'}
+[t=95] overspeed  meta={'frame': 'frames\\frame_00093.jpg', 'speed_kmph': 130.6579132080078, 'evidence': 'evidence_speed\\overspeed_00095.jpg'}
+[t=95] hard_brake  meta={'frame': 'frames\\frame_00093.jpg', 'growth': 0.3333333333333333, 'evidence': 'evidence_hardbrake\\hardbrake_00095.jpg'}
+[t=97] lane_departure  meta={'frame': 'frames\\frame_00095.jpg', 'offset_px': 457, 'offset_m': 6.216544117647059, 'evidence': 'evidence\\evidence_frame_00097.jpg'}
+[t=97] tailgating  meta={'frame': 'frames\\frame_00095.jpg', 'rel_height': 0.9064814814814814, 'evidence': 'evidence_tailgating\\tailgating_00097.jpg'}
+[t=97] overspeed  meta={'frame': 'frames\\frame_00095.jpg', 'speed_kmph': 94.14112091064453, 'evidence': 'evidence_speed\\overspeed_00097.jpg'}
+[t=97] overtaking_you  meta={'frame': 'frames\\frame_00095.jpg', 'track': 0, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_0_97.jpg'}
+[t=98] overspeed  meta={'frame': 'frames\\frame_00096.jpg', 'speed_kmph': 502.6663513183594, 'evidence': 'evidence_speed\\overspeed_00098.jpg'}
+[t=100] lane_departure  meta={'frame': 'frames\\frame_00098.jpg', 'offset_px': 426, 'offset_m': 7.541626794258374, 'evidence': 'evidence\\evidence_frame_00100.jpg'}
+[t=100] tailgating  meta={'frame': 'frames\\frame_00098.jpg', 'rel_height': 0.9574074074074074, 'evidence': 'evidence_tailgating\\tailgating_00100.jpg'}
+[t=101] overspeed  meta={'frame': 'frames\\frame_00099.jpg', 'speed_kmph': 1280.8409423828125, 'evidence': 'evidence_speed\\overspeed_00101.jpg'}
+[t=102] overspeed  meta={'frame': 'frames\\frame_00100.jpg', 'speed_kmph': 357.82672119140625, 'evidence': 'evidence_speed\\overspeed_00102.jpg'}
+[t=103] lane_departure  meta={'frame': 'frames\\frame_00101.jpg', 'offset_px': 940, 'offset_m': 84.82926829268294, 'evidence': 'evidence\\evidence_frame_00103.jpg'}
+[t=103] overspeed  meta={'frame': 'frames\\frame_00101.jpg', 'speed_kmph': 158.40579223632812, 'evidence': 'evidence_speed\\overspeed_00103.jpg'}
+[t=107] overspeed  meta={'frame': 'frames\\frame_00105.jpg', 'speed_kmph': 281.9693908691406, 'evidence': 'evidence_speed\\overspeed_00107.jpg'}
+[t=108] overspeed  meta={'frame': 'frames\\frame_00106.jpg', 'speed_kmph': 299.9787902832031, 'evidence': 'evidence_speed\\overspeed_00108.jpg'}
+[t=108] overtaking_you  meta={'frame': 'frames\\frame_00106.jpg', 'track': 14, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_14_108.jpg'}
+[t=109] overspeed  meta={'frame': 'frames\\frame_00107.jpg', 'speed_kmph': 65.60954284667969, 'evidence': 'evidence_speed\\overspeed_00109.jpg'}
+[t=109] overtaking_you  meta={'frame': 'frames\\frame_00107.jpg', 'track': 13, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_13_109.jpg'}
+[t=110] overspeed  meta={'frame': 'frames\\frame_00108.jpg', 'speed_kmph': 242.63278198242188, 'evidence': 'evidence_speed\\overspeed_00110.jpg'}
+[t=110] overtaking_you  meta={'frame': 'frames\\frame_00108.jpg', 'track': 7, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_7_110.jpg'}
+[t=111] overspeed  meta={'frame': 'frames\\frame_00109.jpg', 'speed_kmph': 126.04777526855469, 'evidence': 'evidence_speed\\overspeed_00111.jpg'}
+[t=116] overtaking_you  meta={'frame': 'frames\\frame_00114.jpg', 'track': 10, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_10_116.jpg'}
+[t=118] overtaking_you  meta={'frame': 'frames\\frame_00116.jpg', 'track': 15, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_15_118.jpg'}
+[t=119] overspeed  meta={'frame': 'frames\\frame_00117.jpg', 'speed_kmph': 204.09275817871094, 'evidence': 'evidence_speed\\overspeed_00119.jpg'}
+[t=120] overspeed  meta={'frame': 'frames\\frame_00118.jpg', 'speed_kmph': 257.54730224609375, 'evidence': 'evidence_speed\\overspeed_00120.jpg'}
+[t=121] overspeed  meta={'frame': 'frames\\frame_00119.jpg', 'speed_kmph': 197.34034729003906, 'evidence': 'evidence_speed\\overspeed_00121.jpg'}
+[t=142] overspeed  meta={'frame': 'frames\\frame_00140.jpg', 'speed_kmph': 176.81256103515625, 'evidence': 'evidence_speed\\overspeed_00142.jpg'}
+[t=143] you_overtake  meta={'frame': 'frames\\frame_00141.jpg', 'track': 2, 'direction': 'down', 'evidence': 'evidence_overtaking\\you_overtake_2_143.jpg'}
+[t=143] overtaking_you  meta={'frame': 'frames\\frame_00141.jpg', 'track': 9, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_9_143.jpg'}
+[t=154] overtaking_you  meta={'frame': 'frames\\frame_00152.jpg', 'track': 10, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_10_154.jpg'}
+[t=157] overspeed  meta={'frame': 'frames\\frame_00155.jpg', 'speed_kmph': 61.205360412597656, 'evidence': 'evidence_speed\\overspeed_00157.jpg'}
+[t=158] overspeed  meta={'frame': 'frames\\frame_00156.jpg', 'speed_kmph': 69.25160217285156, 'evidence': 'evidence_speed\\overspeed_00158.jpg'}
+[t=158] overtaking_you  meta={'frame': 'frames\\frame_00156.jpg', 'track': 6, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_6_158.jpg'}
+[t=159] overspeed  meta={'frame': 'frames\\frame_00157.jpg', 'speed_kmph': 82.55632019042969, 'evidence': 'evidence_speed\\overspeed_00159.jpg'}
+[t=159] overtaking_you  meta={'frame': 'frames\\frame_00157.jpg', 'track': 1, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_1_159.jpg'}
+[t=160] overspeed  meta={'frame': 'frames\\frame_00158.jpg', 'speed_kmph': 97.31517791748047, 'evidence': 'evidence_speed\\overspeed_00160.jpg'}
+[t=161] overspeed  meta={'frame': 'frames\\frame_00159.jpg', 'speed_kmph': 111.89895629882812, 'evidence': 'evidence_speed\\overspeed_00161.jpg'}
+[t=161] overtaking_you  meta={'frame': 'frames\\frame_00159.jpg', 'track': 9, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_9_161.jpg'}
+[t=162] overspeed  meta={'frame': 'frames\\frame_00160.jpg', 'speed_kmph': 130.5965118408203, 'evidence': 'evidence_speed\\overspeed_00162.jpg'}
+[t=163] lane_departure  meta={'frame': 'frames\\frame_00161.jpg', 'offset_px': 548, 'offset_m': 22.28131868131868, 'evidence': 'evidence\\evidence_frame_00163.jpg'}
+[t=163] overspeed  meta={'frame': 'frames\\frame_00161.jpg', 'speed_kmph': 160.91819763183594, 'evidence': 'evidence_speed\\overspeed_00163.jpg'}
+[t=164] overtaking_you  meta={'frame': 'frames\\frame_00162.jpg', 'track': 1, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_1_164.jpg'}
+[t=166] lane_departure  meta={'frame': 'frames\\frame_00164.jpg', 'offset_px': 494, 'offset_m': 10.042857142857143, 'evidence': 'evidence\\evidence_frame_00166.jpg'}
+[t=166] tailgating  meta={'frame': 'frames\\frame_00164.jpg', 'rel_height': 0.4425925925925926, 'evidence': 'evidence_tailgating\\tailgating_00166.jpg'}
+[t=167] overspeed  meta={'frame': 'frames\\frame_00165.jpg', 'speed_kmph': 209.17044067382812, 'evidence': 'evidence_speed\\overspeed_00167.jpg'}
+[t=167] you_overtake  meta={'frame': 'frames\\frame_00165.jpg', 'track': 0, 'direction': 'down', 'evidence': 'evidence_overtaking\\you_overtake_0_167.jpg'}
+[t=168] overspeed  meta={'frame': 'frames\\frame_00166.jpg', 'speed_kmph': 235.105224609375, 'evidence': 'evidence_speed\\overspeed_00168.jpg'}
+[t=169] lane_departure  meta={'frame': 'frames\\frame_00167.jpg', 'offset_px': 455, 'offset_m': 6.305243445692883, 'evidence': 'evidence\\evidence_frame_00169.jpg'}
+[t=169] tailgating  meta={'frame': 'frames\\frame_00167.jpg', 'rel_height': 0.8546296296296296, 'evidence': 'evidence_tailgating\\tailgating_00169.jpg'}
+[t=169] overspeed  meta={'frame': 'frames\\frame_00167.jpg', 'speed_kmph': 119.99418640136719, 'evidence': 'evidence_speed\\overspeed_00169.jpg'}
+[t=169] hard_brake  meta={'frame': 'frames\\frame_00167.jpg', 'growth': 0.21428571428571427, 'evidence': 'evidence_hardbrake\\hardbrake_00169.jpg'}
+[t=170] overspeed  meta={'frame': 'frames\\frame_00168.jpg', 'speed_kmph': 130.9922637939453, 'evidence': 'evidence_speed\\overspeed_00170.jpg'}
+[t=170] overtaking_you  meta={'frame': 'frames\\frame_00168.jpg', 'track': 0, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_0_170.jpg'}
+[t=172] lane_departure  meta={'frame': 'frames\\frame_00170.jpg', 'offset_px': 456, 'offset_m': 6.248888888888889, 'evidence': 'evidence\\evidence_frame_00172.jpg'}
+[t=172] tailgating  meta={'frame': 'frames\\frame_00170.jpg', 'rel_height': 0.887962962962963, 'evidence': 'evidence_tailgating\\tailgating_00172.jpg'}
+[t=172] overspeed  meta={'frame': 'frames\\frame_00170.jpg', 'speed_kmph': 123.1058578491211, 'evidence': 'evidence_speed\\overspeed_00172.jpg'}
+[t=173] you_overtake  meta={'frame': 'frames\\frame_00171.jpg', 'track': 0, 'direction': 'down', 'evidence': 'evidence_overtaking\\you_overtake_0_173.jpg'}
+[t=175] lane_departure  meta={'frame': 'frames\\frame_00173.jpg', 'offset_px': 439, 'offset_m': 6.882627118644067, 'evidence': 'evidence\\evidence_frame_00175.jpg'}
+[t=175] tailgating  meta={'frame': 'frames\\frame_00173.jpg', 'rel_height': 0.9074074074074074, 'evidence': 'evidence_tailgating\\tailgating_00175.jpg'}
+[t=177] overspeed  meta={'frame': 'frames\\frame_00175.jpg', 'speed_kmph': 4350.3662109375, 'evidence': 'evidence_speed\\overspeed_00177.jpg'}
+[t=178] lane_departure  meta={'frame': 'frames\\frame_00176.jpg', 'offset_px': 380, 'offset_m': 12.017094017094017, 'evidence': 'evidence\\evidence_frame_00178.jpg'}
+[t=178] tailgating  meta={'frame': 'frames\\frame_00176.jpg', 'rel_height': 0.9037037037037037, 'evidence': 'evidence_tailgating\\tailgating_00178.jpg'}
+[t=178] overspeed  meta={'frame': 'frames\\frame_00176.jpg', 'speed_kmph': 393.0609130859375, 'evidence': 'evidence_speed\\overspeed_00178.jpg'}
+[t=185] overtaking_you  meta={'frame': 'frames\\frame_00183.jpg', 'track': 5, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_5_185.jpg'}
+[t=186] overtaking_you  meta={'frame': 'frames\\frame_00184.jpg', 'track': 10, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_10_186.jpg'}
+[t=198] overspeed  meta={'frame': 'frames\\frame_00196.jpg', 'speed_kmph': 129.31845092773438, 'evidence': 'evidence_speed\\overspeed_00198.jpg'}
+[t=198] you_overtake  meta={'frame': 'frames\\frame_00196.jpg', 'track': 6, 'direction': 'down', 'evidence': 'evidence_overtaking\\you_overtake_6_198.jpg'}
+[t=198] you_overtake  meta={'frame': 'frames\\frame_00196.jpg', 'track': 19, 'direction': 'down', 'evidence': 'evidence_overtaking\\you_overtake_19_198.jpg'}
+[t=200] overspeed  meta={'frame': 'frames\\frame_00198.jpg', 'speed_kmph': 60.78815460205078, 'evidence': 'evidence_speed\\overspeed_00200.jpg'}
+[t=200] you_overtake  meta={'frame': 'frames\\frame_00198.jpg', 'track': 3, 'direction': 'down', 'evidence': 'evidence_overtaking\\you_overtake_3_200.jpg'}
+[t=201] overspeed  meta={'frame': 'frames\\frame_00199.jpg', 'speed_kmph': 72.55500793457031, 'evidence': 'evidence_speed\\overspeed_00201.jpg'}
+[t=202] overspeed  meta={'frame': 'frames\\frame_00200.jpg', 'speed_kmph': 86.09416961669922, 'evidence': 'evidence_speed\\overspeed_00202.jpg'}
+[t=202] you_overtake  meta={'frame': 'frames\\frame_00200.jpg', 'track': 1, 'direction': 'down', 'evidence': 'evidence_overtaking\\you_overtake_1_202.jpg'}
+[t=203] overspeed  meta={'frame': 'frames\\frame_00201.jpg', 'speed_kmph': 105.61144256591797, 'evidence': 'evidence_speed\\overspeed_00203.jpg'}
+[t=204] overspeed  meta={'frame': 'frames\\frame_00202.jpg', 'speed_kmph': 128.83409118652344, 'evidence': 'evidence_speed\\overspeed_00204.jpg'}
+[t=205] overspeed  meta={'frame': 'frames\\frame_00203.jpg', 'speed_kmph': 156.58566284179688, 'evidence': 'evidence_speed\\overspeed_00205.jpg'}
+[t=205] overtaking_you  meta={'frame': 'frames\\frame_00203.jpg', 'track': 1, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_1_205.jpg'}
+[t=205] overtaking_you  meta={'frame': 'frames\\frame_00203.jpg', 'track': 9, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_9_205.jpg'}
+[t=206] tailgating  meta={'frame': 'frames\\frame_00204.jpg', 'rel_height': 0.37777777777777777, 'evidence': 'evidence_tailgating\\tailgating_00206.jpg'}
+[t=206] overspeed  meta={'frame': 'frames\\frame_00204.jpg', 'speed_kmph': 203.58885192871094, 'evidence': 'evidence_speed\\overspeed_00206.jpg'}
+[t=207] lane_departure  meta={'frame': 'frames\\frame_00205.jpg', 'offset_px': 523, 'offset_m': 14.334074074074074, 'evidence': 'evidence\\evidence_frame_00207.jpg'}
+[t=207] overspeed  meta={'frame': 'frames\\frame_00205.jpg', 'speed_kmph': 257.65765380859375, 'evidence': 'evidence_speed\\overspeed_00207.jpg'}
+[t=208] overspeed  meta={'frame': 'frames\\frame_00206.jpg', 'speed_kmph': 991.8733520507812, 'evidence': 'evidence_speed\\overspeed_00208.jpg'}
+[t=208] overtaking_you  meta={'frame': 'frames\\frame_00206.jpg', 'track': 1, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_1_208.jpg'}
+[t=208] overtaking_you  meta={'frame': 'frames\\frame_00206.jpg', 'track': 9, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_9_208.jpg'}
+[t=209] tailgating  meta={'frame': 'frames\\frame_00207.jpg', 'rel_height': 0.6175925925925926, 'evidence': 'evidence_tailgating\\tailgating_00209.jpg'}
+[t=209] overspeed  meta={'frame': 'frames\\frame_00207.jpg', 'speed_kmph': 663.2213745117188, 'evidence': 'evidence_speed\\overspeed_00209.jpg'}
+[t=209] you_overtake  meta={'frame': 'frames\\frame_00207.jpg', 'track': 0, 'direction': 'down', 'evidence': 'evidence_overtaking\\you_overtake_0_209.jpg'}
+[t=210] lane_departure  meta={'frame': 'frames\\frame_00208.jpg', 'offset_px': 452, 'offset_m': 6.407662835249043, 'evidence': 'evidence\\evidence_frame_00210.jpg'}
+[t=210] overspeed  meta={'frame': 'frames\\frame_00208.jpg', 'speed_kmph': 84.22410583496094, 'evidence': 'evidence_speed\\overspeed_00210.jpg'}
+[t=210] hard_brake  meta={'frame': 'frames\\frame_00208.jpg', 'growth': 0.29191616766467066, 'evidence': 'evidence_hardbrake\\hardbrake_00210.jpg'}
+[t=211] overspeed  meta={'frame': 'frames\\frame_00209.jpg', 'speed_kmph': 581.449951171875, 'evidence': 'evidence_speed\\overspeed_00211.jpg'}
+[t=212] tailgating  meta={'frame': 'frames\\frame_00210.jpg', 'rel_height': 0.8935185185185185, 'evidence': 'evidence_tailgating\\tailgating_00212.jpg'}
+[t=212] overspeed  meta={'frame': 'frames\\frame_00210.jpg', 'speed_kmph': 277.62457275390625, 'evidence': 'evidence_speed\\overspeed_00212.jpg'}
+[t=213] lane_departure  meta={'frame': 'frames\\frame_00211.jpg', 'offset_px': 455, 'offset_m': 6.305243445692883, 'evidence': 'evidence\\evidence_frame_00213.jpg'}
+[t=213] overspeed  meta={'frame': 'frames\\frame_00211.jpg', 'speed_kmph': 791.8203125, 'evidence': 'evidence_speed\\overspeed_00213.jpg'}
+[t=213] you_overtake  meta={'frame': 'frames\\frame_00211.jpg', 'track': 0, 'direction': 'down', 'evidence': 'evidence_overtaking\\you_overtake_0_213.jpg'}
+[t=214] overspeed  meta={'frame': 'frames\\frame_00212.jpg', 'speed_kmph': 217.5000457763672, 'evidence': 'evidence_speed\\overspeed_00214.jpg'}
+[t=215] tailgating  meta={'frame': 'frames\\frame_00213.jpg', 'rel_height': 0.9166666666666666, 'evidence': 'evidence_tailgating\\tailgating_00215.jpg'}
+[t=216] lane_departure  meta={'frame': 'frames\\frame_00214.jpg', 'offset_px': 454, 'offset_m': 6.315037593984963, 'evidence': 'evidence\\evidence_frame_00216.jpg'}
+[t=216] overspeed  meta={'frame': 'frames\\frame_00214.jpg', 'speed_kmph': 245.38211059570312, 'evidence': 'evidence_speed\\overspeed_00216.jpg'}
+[t=217] overspeed  meta={'frame': 'frames\\frame_00215.jpg', 'speed_kmph': 786.191650390625, 'evidence': 'evidence_speed\\overspeed_00217.jpg'}
+[t=218] tailgating  meta={'frame': 'frames\\frame_00216.jpg', 'rel_height': 0.9138888888888889, 'evidence': 'evidence_tailgating\\tailgating_00218.jpg'}
+[t=218] overspeed  meta={'frame': 'frames\\frame_00216.jpg', 'speed_kmph': 367.84466552734375, 'evidence': 'evidence_speed\\overspeed_00218.jpg'}
+[t=218] overtaking_you  meta={'frame': 'frames\\frame_00216.jpg', 'track': 0, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_0_218.jpg'}
+[t=219] lane_departure  meta={'frame': 'frames\\frame_00217.jpg', 'offset_px': 433, 'offset_m': 7.184304932735427, 'evidence': 'evidence\\evidence_frame_00219.jpg'}
+[t=219] overspeed  meta={'frame': 'frames\\frame_00217.jpg', 'speed_kmph': 410.092041015625, 'evidence': 'evidence_speed\\overspeed_00219.jpg'}
+[t=221] tailgating  meta={'frame': 'frames\\frame_00219.jpg', 'rel_height': 0.8935185185185185, 'evidence': 'evidence_tailgating\\tailgating_00221.jpg'}
+[t=222] lane_departure  meta={'frame': 'frames\\frame_00220.jpg', 'offset_px': 365, 'offset_m': 15.346590909090908, 'evidence': 'evidence\\evidence_frame_00222.jpg'}
+[t=222] you_overtake  meta={'frame': 'frames\\frame_00220.jpg', 'track': 1, 'direction': 'down', 'evidence': 'evidence_overtaking\\you_overtake_1_222.jpg'}
+[t=238] overtaking_you  meta={'frame': 'frames\\frame_00236.jpg', 'track': 4, 'direction': 'up', 'evidence': 'evidence_overtaking\\overtake_you_4_238.jpg'}
